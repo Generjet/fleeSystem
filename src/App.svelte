@@ -1,11 +1,11 @@
 <script>
-  import logo from './assets/capitron.jpeg'
+  import logo from './assets/elixir.jpeg'
   import Counter from './lib/Counter.svelte'
 </script>
 
 <main>
   <img src={logo} alt="Svelte Logo" />
-  <h1>Capitron bank</h1>
+  <h1>Light app</h1>
 
   <Counter />
 
